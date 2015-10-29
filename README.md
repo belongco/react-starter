@@ -6,6 +6,12 @@ Setup
 -----
     npm install
     
+Global Dependencies
+-----
+node,webpack
+
+
+    
 Run Dev Server
 -----
     npm run dev
