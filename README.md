@@ -5,6 +5,12 @@ A starter **React 0.14** application to bootstrap your next react app.
 Setup
 -----
     npm install
+    
+Run Dev Server
+-----
+    npm run dev
+
+    
 Comes with
 ----------
     React 0.14
