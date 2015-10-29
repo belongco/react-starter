@@ -1,0 +1,8 @@
+{
+  "stage": 1,
+  "env": {
+    "build": {
+      "optional": ["optimisation", "minification"]
+    }
+  }
+}
