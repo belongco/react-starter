@@ -10,9 +10,12 @@ html,body,main{
 	height:100%;
 }
 body{
-
 	padding-left:$sidebar_width;
 }
+.my_flex{
+	display:flex;
+}
+
 ul.navbar_routes{
 	position:fixed;
 	top:0;
